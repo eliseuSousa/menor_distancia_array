@@ -40,6 +40,6 @@ int main() {
     }
   }
 
-  printf("A menor distância é a combinação do número %i do array 1 com o número %i do array 2, que seria %i de distância.", numArray1, numArray2, menorDistancia);
+  printf("A menor distância é a combinação do número %i do array 1 com o número %i do array 2, que seria %i de distância.\n", numArray1, numArray2, menorDistancia);
 
 }
